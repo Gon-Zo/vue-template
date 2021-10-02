@@ -2,6 +2,11 @@
 
 > A Vue.js project
 
+
+## Host
+
+http://localhost:8080/#/
+
 ## Build Setup
 
 ``` bash
